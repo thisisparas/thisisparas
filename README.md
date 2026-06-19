@@ -40,12 +40,12 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=thisisparas&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thisisparas&layout=compact&theme=radical"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=thisisparas&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thisisparas&layout=compact&theme=tokyonight"/>
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=thisisparas&theme=radical" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com/?user=thisisparas&theme=tokyonight" alt="GitHub Streak" />
 </p>
 
 ### 🔥 Contribution Graph
@@ -64,7 +64,7 @@
 
 ### 💬 Random Dev Quote
 
-![Random Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+![Random Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
 ---
 
