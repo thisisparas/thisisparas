@@ -12,7 +12,7 @@ MCA student with strong foundations in Data Structures & Algorithms, Python, and
 
 - 🎓 Pursuing MCA at Uttaranchal University, Dehradun (2025–2027)
 - 💻 Built & deployed **UniTools** — a full-stack utility platform (PDF processing, image conversion, AI resume analysis)
-- 🧠 Solved 60+ DSA problems on LeetCode (Arrays, Strings, Hash Maps, Linked Lists, Trees, Recursion)
+- 🧠 Solved 70+ DSA problems on LeetCode (Arrays, Strings, Hash Maps, Linked Lists, Trees, Recursion)
 - 📍 Based in Dehradun, India
 - 📫 Reach me at: **thisisparas@outlook.com**
 - 🌱 Currently leveling up backend systems & AI integration skills
