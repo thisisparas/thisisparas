@@ -6,13 +6,13 @@
 
 ### 👋 Hi, I'm Paras Chauhan
 
-MCA student with strong foundations in Data Structures & Algorithms, Python, and Full-Stack Web Development. I build and deploy real web apps — not just tutorials.
+MCA student with strong foundations in Data Structures & Algorithms and Full-Stack Web Development. I build and deploy real web apps — not just tutorials.
 
 ### 🚀 About Me
 
 - 🎓 Pursuing MCA at Uttaranchal University, Dehradun (2025–2027)
 - 💻 Built & deployed **UniTools** — a full-stack utility platform (PDF processing, image conversion, AI resume analysis)
-- 🧠 Solved 70+ DSA problems on LeetCode (Arrays, Strings, Hash Maps, Linked Lists, Trees, Recursion)
+- 🧠 Solving DSA problems on LeetCode
 - 📍 Based in Dehradun, India
 - 📫 Reach me at: **thisisparas@outlook.com**
 - 🌱 Currently leveling up backend systems & AI integration skills
